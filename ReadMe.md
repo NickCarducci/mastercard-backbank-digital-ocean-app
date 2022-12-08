@@ -12,10 +12,12 @@ Can't evict children with inflation (and time to outcome or *if surveyed*, shrin
 
 - "Create Resource From Source Code"
 
-- "Add a ['Deploy to DigitalOcean'](https://github.com/NickCarducci/Nonce-Minter-Bot) Button" (IP-domain `deploy.template.yaml`)
+- "Add a ['Deploy to DigitalOcean'](https://github.com/NickCarducci/Nonce-Minter-Bot) Button" **(IP-domain `deploy.template.yaml`)** ~~connect to git (`/logs` of app can still be open source, see src/index.js)~~
 
-A new Ethereum "smart contract" track's `genesis.json` use case makes-important this Authority scheme with Digital Ocean to prove this code is running on the domain-IP.
+A new Ethereum "smart contract" track's **`genesis.json` use case** makes-important this Authority scheme with Digital Ocean to ***prove this code is running on* the domain-IP**.
 
 ## 1. [DigitalOcean Control Panel](https://cloud.digitalocean.com/), create>apps
 
 2. [readmeoauth.md](https://github.com/NickCarducci/mastercard-backbank-digital-ocean-app/readmeoauth.md)
+
+> On app buildpack vs compute droplet: why does git not require access, what features does integration make?
