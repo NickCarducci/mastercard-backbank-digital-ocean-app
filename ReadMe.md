@@ -1,6 +1,6 @@
 Instead of [Mastercard-backbank-digital-ocean compute](https://github.com/NickCarducci/mastercard-backbank-digital-ocean) droplet, ""-app with buildpack turnkey bootstrap.
 
-Can't evict children with inflation; public shame void interspective rights.
+Can't evict children with inflation (and time to outcome or *if surveyed*, shrinkflation); public shame void interspective rights.
 
 >App Platform checks your code to determine what language or framework it uses. If it supports the language or framework, it chooses an appropriate resource type and uses the proper buildpack to build the app and deploy a container. ([heroku-buildpack-nodejs](https://docs.digitalocean.com/products/app-platform/reference/buildpacks/nodejs/)).
 
