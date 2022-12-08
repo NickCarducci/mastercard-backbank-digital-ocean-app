@@ -5,7 +5,7 @@
   "description": "debit app for vau.money",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "npm install && node src/index.js"
   },
   "author": "Nick Carducci nmcarducci@gmail.com",
   "license": "UNLICENSED",
