@@ -12,7 +12,7 @@ Can't evict children with inflation (and time to outcome or *if surveyed*, shrin
 
 - "Create Resource From Source Code"
 
-- "Add a ['Deploy to DigitalOcean'](https://github.com/NickCarducci/Nonce-Minter-Bot) Button" **(IP-domain `deploy.template.yaml`)** ~~connect to git (`/logs` of app can still be open source, see src/index.js)~~
+- ~~"Add a ['Deploy to DigitalOcean'](https://github.com/NickCarducci/Nonce-Minter-Bot) Button" **(IP-domain `deploy.template.yaml`)**~~ connect to git (`/logs` of app can still be open source, see src/index.js)
 
 A new Ethereum "smart contract" track's **`genesis.json` use case** makes-important this Authority scheme with Digital Ocean to ***prove this code is running on* the domain-IP**.
 
