@@ -21,3 +21,7 @@ A new Ethereum "smart contract" track's **`genesis.json` use case** makes-import
 2. [readmeoauth.md](https://github.com/NickCarducci/mastercard-backbank-digital-ocean-app/readmeoauth.md)
 
 > On app buildpack vs compute droplet: why does git not require access, what features does integration make?
+
+3. apps>app>settings={"Build Command": "npm install", "Run Command": "npm start"}
+
+> is that where your [`package.json`](https://www.digitalocean.com/community/questions/how-to-use-the-apps-build-command-for-static-site-resources) file is located? If not, can you try updating the source_dir path to the directory that contains your package.json?
