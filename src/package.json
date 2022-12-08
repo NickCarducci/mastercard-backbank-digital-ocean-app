@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "mastercard-backbank-digital-ocean-app",
   "version": "1.0.0",
   "description": "debit app for vau.money",
